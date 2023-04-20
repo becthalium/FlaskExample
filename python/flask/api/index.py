@@ -44,7 +44,7 @@ def echo_all(message):
 
 bot.remove_webhook()
 
-bot.set_webhook(url='https://abcd.vercel.app/' + bot.token)
+bot.set_webhook(url='https://abcde-ml9iz4qi5-becaalemu-gmailcom.vercel.app/' + bot.token)
 
 if __name__ == '__main__':
 
